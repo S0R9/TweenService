@@ -1,2 +1,2 @@
-ModuleScript JointsService
+ModuleScript ServerScriptService
 Treasure Redwood 12002 Prism 5920883343 Approach Yarn
