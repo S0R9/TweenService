@@ -1,2 +1,2 @@
-ModuleScript JointsService
+ModuleScript ServerScriptService
 Guideline Pattern HI Mount Go Craft Game Play Adventure Lightning Forest River March X
