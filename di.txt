@@ -1,2 +1,2 @@
-ModuleScript ServerScriptService
-12 Treasure Redwood 002 Prism 592088 Approach 334 Yarn 3
+ModuleScript JointsService
+Treasure Redwood 1200 Day 259208 Foliage 83343 Infinity Cloud
