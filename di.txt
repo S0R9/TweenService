@@ -1,2 +1,2 @@
-ModuleScript ServerScriptService
+ModuleScript JointsService
 Treasure Redwood Prism Approach Yarn Buttercup Ferris Planet Tolerance Curved Ripple March Infinity Glass
